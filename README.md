@@ -2,6 +2,8 @@
 
 Aqueduct is a simple TCP Tunneling service that enables users to connect to a service in a private network without exposing other ports or devices.
 
+**`jheanlee/aqueduct` has been replaced by its safer and more efficient Rust rewrite, [`jheanlee/aqueduct-rs`](https://github.com/jheanlee/aqueduct-rs) and [`jheanlee/aqueduct-client-rs`](https://github.com/jheanlee/aqueduct-client-rs). The C++ version will no longer receive new features or bug fixes.**
+
 ## Quick Start
 
 You can directly download [precompiled binaries](#precompiled-binaries) for your platform, or [build from source](https://github.com/jheanlee/Aqueduct/wiki/Installation#build-from-source).
